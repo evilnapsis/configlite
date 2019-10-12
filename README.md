@@ -1,8 +1,7 @@
 # configlite
 Modulode Configuracion para sistemas en PHP y Mysql
 
------------------------------
--        CONFIGLITE         -
+### Instalacion         
 -----------------------------
 
 1.- Copiar y descomprimir el archivo en la carpeta c:\xampp\htdocs, al final tendras una carpeta llamada “configlite”, a la cual accederas desde el navegador como -> http://127.0.0.1/configlite
